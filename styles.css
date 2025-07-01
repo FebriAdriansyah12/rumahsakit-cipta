@@ -1006,3 +1006,10 @@ body {
     height: 80px;
   }
 }
+
+@media (min-width: 768px) {
+  .logo {
+    width: 160px;
+    aspec-ratio: 16/9;
+  }
+}
